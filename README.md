@@ -1,7 +1,5 @@
 # RemoveLocalProjectAddon
 
-# RemoveLocalProjectAddon
-
 This add-on adds a <kbd>Remove project..</kbd> command to the **...** dialog of each **local** project entry on the start form. The command delete the **Attachements folder** and the **parent folder** of the `*.ctv` file.
 
 ## Releases
